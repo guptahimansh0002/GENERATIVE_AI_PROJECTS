@@ -20,6 +20,7 @@ This repo serves as a hands-on portfolio of my journey into Generative AI — st
 
 | Project | Description | Tech Used |
 |---|---|---|
+|Chatbot with Message History | A conversational chatbot built with LangChain that remembers previous interactions across multiple turns using session-based message history (supports multiple concurrent user sessions). | LangChain, Groq (Llama 3.1-8B), python-dotenv |
 | _Coming soon_ | _Coming soon_ | _Coming soon_ |
 
 > This table will be updated as new projects are added to the repository.
